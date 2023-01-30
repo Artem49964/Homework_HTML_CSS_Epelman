@@ -1,0 +1,41 @@
+* {
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    height: 60px;
+}
+
+
+.a {
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    color: white;
+}
+
+.lower {
+    display: flex;
+}
+
+
+.b{
+    width: 60%;
+    height: 60px;
+    background-color: green;
+}
+
+.c{
+    width: 40%;
+    height: 60px;
+    background-color: bisque;
+}
+
+
+

@@ -1,0 +1,46 @@
+* {
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+}
+
+.a, .b, .c, .d, .e, .f {
+    background-color: blue;
+    border: 1px solid;
+}
+
+.a {
+    width: 100%;
+    height: 60px;
+}
+
+.b {
+    width: 75%;
+    height: 60px;
+}
+
+.c, .d, .e {
+    width: 25%;
+    height: 60px;
+}
+
+.f {
+    width: 25%;
+    height: 120px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+
+}
+
+.lower {
+    display: flex;
+    position: relative;
+}

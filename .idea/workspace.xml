@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae8268be-6150-49c9-9272-4b52906421d0" name="Changes" comment="Create HTML reposetory" />
+    <list default="true" id="ae8268be-6150-49c9-9272-4b52906421d0" name="Changes" comment="Created HTML reposetory">
+      <change afterPath="$PROJECT_DIR$/HW/HW-4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW-4/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW-4/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +17,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2L26xANZv0eml1ksWQLw2FjGn5S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,6 +32,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -37,7 +50,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675057076222</updated>
-      <workItem from="1675057077953" duration="335000" />
+      <workItem from="1675057077953" duration="1959000" />
+      <workItem from="1675085508747" duration="701000" />
     </task>
     <task id="LOCAL-00001" summary="Create HTML reposetory">
       <created>1675057302634</created>
@@ -46,11 +60,26 @@
       <option name="project" value="LOCAL" />
       <updated>1675057302634</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created HTML reposetory">
+      <created>1675057469805</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675057469805</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created HTML reposetory">
+      <created>1675057536557</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675057536557</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create HTML reposetory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create HTML reposetory" />
+    <MESSAGE value="Created HTML reposetory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created HTML reposetory" />
   </component>
 </project>
